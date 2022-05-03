@@ -47,17 +47,17 @@ steering and maintaining speed, while task relevant audio (traffic safety) playe
 Subjects were instructed to look for police vehicles and respond by pressing a button on the steering wheel.
 
 Mind Wandering B and C were similar, with non-task relevant audio (e.g. sports broadcast) in B
- and internal focus audio (mindfulness breathing exercise) in C.
- Both driving tasks were conducted on the same simulated long, straight road,
- that contained a mix of regular traffic and police vehicles.
+and internal focus audio (mindfulness breathing exercise) in C.
+Both driving tasks were conducted on the same simulated long, straight road,
+that contained a mix of regular traffic and police vehicles.
 
- In each case, the subject was instructed to stay within the boundaries of the right-most lane,
- and to drive at the posted speed limits.
+In each case, the subject was instructed to stay within the boundaries of the right-most lane,
+and to drive at the posted speed limits.
 
- The vehicle was periodically subject to lateral perturbing forces,
- which could be applied to either side of the vehicle, pushing the vehicle out of the center
- of the lane; and the subject was instructed to execute corrective steering actions to return
- the vehicle to the center of the lane.
+The vehicle was periodically subject to lateral perturbing forces,
+which could be applied to either side of the vehicle, pushing the vehicle out of the center
+of the lane; and the subject was instructed to execute corrective steering actions to return
+the vehicle to the center of the lane.
 
 **Independent variables:** Background Audio (task relevant vs. non-task relevant vs. internal focus).
 
@@ -70,3 +70,6 @@ Note: questionnaire data is available upon request from [cancta.net](https://can
 Simulator Sickness Questionnaire.
 
 **Experimental Location:** Teledyne Corporation, Durham, NC.
+
+**Note:** This dataset has a corresponding dataset in the BCIT Calibration Driving ds004118 which has the
+15 minute driving task prior to this one.
